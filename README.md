@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Joha6nk69Russell
 
-<!--
-**Joha6nk69Russell/Joha6nk69Russell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏓 🎻 A geek in algorithms 🏓 🎻
 
-Here are some ideas to get you started:
+## About Me
+🏒 🥊 Dedicated to mastering tech communities 🏒 🥊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚴 🎾 🎪 Working on startup culture 🚴 🎾 🎪
+
+### Fun Facts
+🛼 🎻 Interested in natural language processing 🛼 🎻
+
+---
+💻 🚵 🏸 🎣 🛶 Thanks for visiting my profile! 🎮 🏸 🚵 🎰 🎣
